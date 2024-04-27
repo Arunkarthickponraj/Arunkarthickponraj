@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Arun
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python based data analytics
+- 👋 Hi, I’m @Arun, Data Analyst 
+- 👀 I’m interested in Data Analytics, Data Science Projects
 - 💞️ I’m looking to collaborate on Python based data science Projects
 - 📫 How to reach me : Email : arunkarthick.p@somca.ssn.edu.in
 
